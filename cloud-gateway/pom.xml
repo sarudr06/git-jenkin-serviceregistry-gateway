@@ -90,6 +90,7 @@
 				</configuration>
 			</plugin>
 		</plugins>
+		<finalName>cloud-gateway</finalName>
 	</build>
 
 </project>
